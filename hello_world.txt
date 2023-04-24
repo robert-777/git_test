@@ -1,0 +1,2 @@
+Hi there,
+currently getting started with the git lessons.
